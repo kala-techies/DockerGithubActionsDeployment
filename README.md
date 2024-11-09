@@ -106,7 +106,7 @@ DOCKERGITHUBACTIONSDEPLOYMENT/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/kala-techies/MLOPS.git
+git clone [https://github.com/kala-techies/DockerGithubActionsDeployment.git]
 cd DOCKERGITHUBACTIONSDEPLOYMENT
 ```
 
